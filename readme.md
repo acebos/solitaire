@@ -1,8 +1,6 @@
 # Solitaire
 
- Google's Solitaire CURL'd and compiled into a playable format for both online and offline use.
-
-[🕹️ Play Online Here](https://fluteds.github.io/google-solitaire/standalone.html)
+ Google's Solitaire CURL'd and compiled into a playable format for offline use.
 
 💾 Play Offline
 
